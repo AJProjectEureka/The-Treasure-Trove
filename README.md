@@ -31,9 +31,11 @@
 <p> The research papers come from a very wide array of topics and areas. Please use them as you please, observe the rules and procedures to make The Treasure Trove a friendly source of information for all of us to enjoy. Also note, you can use this for your PW or self-study if you wish. Thank you very much! </p>
 
 <H1>Requests Format: </H1>
+<div>
 <p> From: [Name] </p>
 <p> Subject: [Use any of the titles of the procedures i.e. Adding Research Paper] </p>
 <p> [Content] </p>
 <p> [If adding RP, please attach it] </p>
 <p> [If removing RP, please include argument] </p>
 <p> [if sharing RP, please attach all necessary information as stated in Procedure 3.b] </p>
+</div>
