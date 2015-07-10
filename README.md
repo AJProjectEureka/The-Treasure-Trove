@@ -2,7 +2,7 @@
 	Hi Eurekans, this database has been set up to easily compile all the research papers that we have used before in our research (hence considered useful) into a neat little database. As seen in the folders, they are segregated into neat folders based on category. Do note that some papers are present in multiple folders as the fields covered overlap with more than just a singular field. Please note that some of these papers are confidential and cannot be shared. This also makes the database even more valuable as you would not be able to easily find some of these papers (unless you surf the Darknet). Thank you for your time, please read below along the guidelines and procedures to easily navigate “The Treasure Trove”.
 
 <p><b> Rules: </b></p>
-Do not share any of the papers without prior permission of the database IC’s (Ming Liang and Aloysius) <&nbsp;>
+Do not share any of the papers without prior permission of the database IC’s (Ming Liang and Aloysius) &nbsp;
 Do not edit any of the papers<&nbsp;>
 You may download the papers for your reference, but again, please do not share the files<&nbsp;>
 Do not create google docs within The Treasure Trove, we have a limited amount of space. Please create the docs in your own personal accounts. The Treasure Trove is ONLY for research papers<&nbsp;>
