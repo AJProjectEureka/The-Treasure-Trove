@@ -24,13 +24,13 @@
 <p> Other Queries: </p>
 <p> Just email the database IC’s as seen appropriate </p>
 
-<p><b> Tips & Tricks </p></b>
+<H1>Tips & Tricks </H1>
 	<p> Google drive has a search bar located on the top of your screen in the main page. If you are searching on a particular topic, using that engine is a good place to start. If will search the database for any papers that matches your keywords. </p>
 
-<p><b> Final Note: </p></b>
+<H1>Final Note: </H1>
 <p> The research papers come from a very wide array of topics and areas. Please use them as you please, observe the rules and procedures to make The Treasure Trove a friendly source of information for all of us to enjoy. Also note, you can use this for your PW or self-study if you wish. Thank you very much! </p>
 
-<p><b> Requests Format: </p></b>
+<H1>Requests Format: </H1>
 <p> From: [Name] </p>
 <p> Subject: [Use any of the titles of the procedures i.e. Adding Research Paper] </p>
 <p> [Content] </p>
