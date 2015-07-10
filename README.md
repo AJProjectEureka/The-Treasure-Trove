@@ -9,6 +9,7 @@
 <p> For requests of any of the procedures, please refer to the format below as this would aid in quickly acknowledging and acting on your requests </p>
 
 <H1> Procedures: </H1>
+
 <H3> Adding research papers: </h3>
 <ul>
 <li> Approach the database IC’s and alert them of your wish to add research papers (this can be via email, text message etc.) </li>
@@ -16,18 +17,24 @@
 <li> After approval (via relevance tests), the paper will be added into The Treasure Trove </li>
 <li> If research paper is deemed worthy for a new topic folder to be created, then it will be. Do include in your request if you believe a new folder should be added </li>
 </ul>
+
 <h3> Removing research papers: </h3>
-<p> Papers will only be removed if the theories they present have been substantially proven false, hence leading to a useless research paper </p>
-<p> Please approach the database IC’s and provide your argument </p>
+<ul>
+<li> Papers will only be removed if the theories they present have been substantially proven false, hence leading to a useless research paper </li>
+<li> Please approach the database IC’s and provide your argument </li>
+</ul>
+
 <h3> Sharing research papers: </h3>
-<p> Approach the database IC’s and alert them of your wish to share research papers </p>
-<p> Include who you are sharing with, for what purpose and which document you would be sharing in your request </p>
-<p> If the document is not confidential, you will be granted permission, if not, you will be advised on other documents which may also suit your needs </p>
-<p> Other Queries: </p>
-<p> Just email the database IC’s as seen appropriate </p>
+<ul>
+<li> Approach the database IC’s and alert them of your wish to share research papers </li>
+<li> Include who you are sharing with, for what purpose and which document you would be sharing in your request </li>
+<li> If the document is not confidential, you will be granted permission, if not, you will be advised on other documents which may also suit your needs </li>
+<li> Other Queries: </li>
+<li> Just email the database IC’s as seen appropriate </li>
+</ul>
 
 <H1>Tips & Tricks </H1>
-	<p> Google drive has a search bar located on the top of your screen in the main page. If you are searching on a particular topic, using that engine is a good place to start. If will search the database for any papers that matches your keywords. </p>
+	<p> Google drive has a search bar located on the top of your screen in the main page. If you are searching on a 		particular topic, using that engine is a good place to start. If will search the database for any papers that matches 		your keywords. </p>
 
 <H1>Final Note: </H1>
 <p> The research papers come from a very wide array of topics and areas. Please use them as you please, observe the rules and procedures to make The Treasure Trove a friendly source of information for all of us to enjoy. Also note, you can use this for your PW or self-study if you wish. Thank you very much! </p>
