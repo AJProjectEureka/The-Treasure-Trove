@@ -9,15 +9,17 @@
 <p> For requests of any of the procedures, please refer to the format below as this would aid in quickly acknowledging and acting on your requests </p>
 
 <H1> Procedures: </H1>
-<H2> Adding research papers: </h2>
-<p> Approach the database IC’s and alert them of your wish to add research papers (this can be via email, text message etc.) </p>
-<p> Email papers to the respective IC </p>
-<p> After approval (via relevance tests), the paper will be added into The Treasure Trove </p>
-<p> If research paper is deemed worthy for a new topic folder to be created, then it will be. Do include in your request if you believe a new folder should be added </p>
+<H3> Adding research papers: </h3>
+<ul>
+<li> Approach the database IC’s and alert them of your wish to add research papers (this can be via email, text message etc.) </li>
+<li> Email papers to the respective IC </li>
+<li> After approval (via relevance tests), the paper will be added into The Treasure Trove </li>
+<li> If research paper is deemed worthy for a new topic folder to be created, then it will be. Do include in your request if you believe a new folder should be added </li>
+</ul>
 <p> Removing research papers: </p>
 <p> Papers will only be removed if the theories they present have been substantially proven false, hence leading to a useless research paper </p>
 <p> Please approach the database IC’s and provide your argument </p>
-<p> Sharing research papers: </p>
+<h3> Sharing research papers: </h3>
 <p> Approach the database IC’s and alert them of your wish to share research papers </p>
 <p> Include who you are sharing with, for what purpose and which document you would be sharing in your request </p>
 <p> If the document is not confidential, you will be granted permission, if not, you will be advised on other documents which may also suit your needs </p>
