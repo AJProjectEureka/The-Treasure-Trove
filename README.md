@@ -34,7 +34,7 @@
 </ul>
 
 <H1>Tips & Tricks </H1>
-	<p> Google drive has a search bar located on the top of your screen in the main page. If you are searching on a 		particular topic, using that engine is a good place to start. If will search the database for any papers that matches 		your keywords. </p>
+<p> Google drive has a search bar located on the top of your screen in the main page. If you are searching on a 		particular topic, using that engine is a good place to start. If will search the database for any papers that matches 		your keywords. </p>
 
 <H1>Final Note: </H1>
 <p> The research papers come from a very wide array of topics and areas. Please use them as you please, observe the rules and procedures to make The Treasure Trove a friendly source of information for all of us to enjoy. Also note, you can use this for your PW or self-study if you wish. Thank you very much! </p>
