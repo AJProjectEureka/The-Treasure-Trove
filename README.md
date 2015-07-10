@@ -16,7 +16,7 @@
 <li> After approval (via relevance tests), the paper will be added into The Treasure Trove </li>
 <li> If research paper is deemed worthy for a new topic folder to be created, then it will be. Do include in your request if you believe a new folder should be added </li>
 </ul>
-<p> Removing research papers: </p>
+<h3> Removing research papers: </h3>
 <p> Papers will only be removed if the theories they present have been substantially proven false, hence leading to a useless research paper </p>
 <p> Please approach the database IC’s and provide your argument </p>
 <h3> Sharing research papers: </h3>
