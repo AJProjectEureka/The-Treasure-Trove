@@ -1,14 +1,14 @@
 <H1> Introduction: </H1>
 <p>Hi Eurekans, this database has been set up to easily compile all the research papers that we have used before in our research (hence considered useful) into a neat little database. As seen in the folders, they are segregated into neat folders based on category. Do note that some papers are present in multiple folders as the fields covered overlap with more than just a singular field. Please note that some of these papers are confidential and cannot be shared. This also makes the database even more valuable as you would not be able to easily find some of these papers (unless you surf the Darknet). Thank you for your time, please read below along the guidelines and procedures to easily navigate “The Treasure Trove”.</p>
 
-<p><b> Rules: </b></p>
+<H1> Rules: </H1>
 <p> Do not share any of the papers without prior permission of the database IC’s (Ming Liang and Aloysius) </p>
 <p> Do not edit any of the papers </p>
 <p> You may download the papers for your reference, but again, please do not share the files </p>
 <p> Do not create google docs within The Treasure Trove, we have a limited amount of space. Please create the docs in your own personal accounts. The Treasure Trove is ONLY for research papers </p>
 <p> For requests of any of the procedures, please refer to the format below as this would aid in quickly acknowledging and acting on your requests </p>
 
-<p><b> Procedures: </p></b>
+<H1> Procedures: </H1>
 <p> Adding research papers: </p>
 <p> Approach the database IC’s and alert them of your wish to add research papers (this can be via email, text message etc.) </p>
 <p> Email papers to the respective IC </p>
