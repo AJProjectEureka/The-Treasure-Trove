@@ -9,7 +9,7 @@
 <p> For requests of any of the procedures, please refer to the format below as this would aid in quickly acknowledging and acting on your requests </p>
 
 <H1> Procedures: </H1>
-<p> Adding research papers: </p>
+<H2> Adding research papers: </h2>
 <p> Approach the database IC’s and alert them of your wish to add research papers (this can be via email, text message etc.) </p>
 <p> Email papers to the respective IC </p>
 <p> After approval (via relevance tests), the paper will be added into The Treasure Trove </p>
